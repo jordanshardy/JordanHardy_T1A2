@@ -33,13 +33,13 @@ p {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 30px 2%;
+  padding: 4em 0 4em 2em;
   height: 10px;
   font-size: 0.6em;
   border-bottom: 3px solid transparent;
 }
 
-.logo {
+#logo {
   cursor: pointer;
   height: auto;
   width: auto;
@@ -49,6 +49,7 @@ p {
 
 .nav-links {
   list-style: none;
+  padding-right: 7%;
 }
 
 .nav-links li {
@@ -65,10 +66,6 @@ p {
   border-bottom: 3px solid #e9c3b8;
 }
 
-.nav-links li a:hover {
-  border-bottom: 3px solid #e9c3b8;
-}
-
 /* Header */
 header h1 {
   font-weight: 1000;
@@ -81,6 +78,11 @@ header h3 {
 }
 
 /* Section 1 */
+
+#section-1 {
+  height: min-hei;
+  padding-bottom: 10%;
+}
 #section-1 h1 {
   font-weight: 1000;
   padding-right: 75%;
@@ -89,4 +91,66 @@ header h3 {
 #section-1 h3 {
   font-weight: 400;
   padding-right: 50%;
+}
+
+#section-1 a {
+  color: black;
+  text-decoration: underline black;
+  text-decoration: uppercase;
+  padding-left: 10%;
+  font-style: italic;
+}
+
+/* Card Section*/
+
+#card-section {
+  background-color: #0d0d0d;
+}
+.card {
+  background-color: #0d0d0d;
+  display: flex;
+  flex-direction: column;
+  color: white;
+  padding: 10% 10% 0 10%;
+}
+
+.card p {
+  color: grey;
+  list-style-type: none;
+  padding-left: 0;
+}
+
+.card h3 {
+  padding-left: 0;
+}
+
+.card:nth-child(4) {
+  padding-bottom: 10%;
+}
+
+/* Section 3 */
+
+#section-3 h1 {
+  font-weight: 1000;
+  padding-right: 75%;
+  padding-top: 1em;
+}
+
+#section-3 h3 {
+  font-weight: 400;
+  padding-bottom: 2em;
+}
+
+#section-3 img {
+  cursor: pointer;
+  width: 100px;
+}
+
+.icon-container {
+  display: flex;
+  flex-direction: column;
+}
+
+.icon-container a {
+  align-self: center;
 }
