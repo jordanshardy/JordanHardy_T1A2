@@ -1,0 +1,74 @@
+/* Core Styles */
+.container {
+  background-color: #f8f8f8;
+}
+body {
+  margin: 0;
+  font-family: "Roboto", sans-serif;
+  background: #f8f8f8;
+  font-size: 1.1em;
+  line-height: 1.5;
+  text-align: left;
+}
+
+img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+h1,
+h2,
+h3 {
+  margin: 0;
+  padding: 1em 0;
+  font-weight: bold;
+}
+
+p {
+  margin: 0;
+  padding: 1em 0;
+}
+
+/* Navbar */
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 30px 2%;
+  height: 10px;
+  font-size: 0.6em;
+}
+
+.logo {
+  cursor: pointer;
+  height: auto;
+  width: auto;
+  max-width: 250px;
+  max-height: 72px;
+}
+
+.nav-links {
+  list-style: none;
+}
+
+.nav-links li {
+  display: inline-block;
+  padding: 0px 10px;
+}
+
+.nav-links a {
+  color: black;
+  text-decoration: none;
+  text-decoration: uppercase;
+}
+.nav-links li a:hover {
+  transition: all 0.3s ease 0s;
+}
+
+/* Header */
+
+.header-title {
+  font-weight: 500;
+}
