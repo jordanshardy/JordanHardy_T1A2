@@ -37,12 +37,28 @@ p {
   border-bottom: 3px solid transparent;
 }
 
-#logo {
+.logo-card {
+  position: relative;
+  display: inline-block;
+}
+
+.logo-card img {
   cursor: pointer;
   height: auto;
   width: auto;
   max-width: 150px;
   max-height: 52px;
+}
+
+.logo-card .img-top {
+  display: none;
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 99;
+}
+.logo-card:hover .img-top {
+  display: inline;
 }
 
 .nav-links {
@@ -102,10 +118,10 @@ header h3 {
 /* Card Section*/
 
 #card-section {
-  background-color: #0d0d0d;
+  background-color: #1c1c1c;
 }
 .card {
-  background-color: #0d0d0d;
+  background-color: #1c1c1c;
   display: flex;
   flex-direction: column;
   color: white;
@@ -128,18 +144,18 @@ header h3 {
 
 /* Section 3 */
 
-#section-3 h1 {
+#footer h1 {
   font-weight: 1000;
   padding-right: 75%;
   padding-top: 1em;
 }
 
-#section-3 h3 {
+#footer h3 {
   font-weight: 400;
   padding-bottom: 2em;
 }
 
-#section-3 img {
+#footer img {
   cursor: pointer;
   width: 100px;
 }
