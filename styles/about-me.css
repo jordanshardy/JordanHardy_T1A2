@@ -81,21 +81,6 @@ p {
   border-bottom: 1px solid #d6af87;
 }
 
-/* Header */
-header {
-  background-color: #f8f8f8;
-}
-header h1 {
-  font-weight: 1000;
-  padding-right: 75%;
-}
-header h3 {
-  font-weight: 400;
-  padding-right: 50%;
-}
-
-/* Section 1 */
-
 #section-1 {
   background-color: #f8f8f8;
   height: min-hei;
@@ -126,7 +111,11 @@ header h3 {
 
 /* Card Section*/
 
-.blank-grid {
+.blank-grid-top {
+  background-color: #f8f8f8;
+}
+
+.blank-grid-right {
   background-color: #f8f8f8;
 }
 
@@ -153,21 +142,21 @@ header h3 {
 }
 
 /* Section 3 */
-#footer {
+.footer {
   background-color: #f8f8f8;
   padding-top: 5%;
 }
-#footer h1 {
+.footer h1 {
   font-weight: 1000;
   padding-right: 75%;
   padding-top: 1em;
 }
 
-#footer h3 {
+.footer h3 {
   font-weight: 400;
 }
 
-#footer img {
+.footer img {
   cursor: pointer;
   width: 100px;
 }
@@ -216,31 +205,22 @@ header h3 {
   body {
     margin: 2%;
   }
-  header {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    text-align: center;
-  }
-
-  header h1,
-  header h3,
-  header p {
-    padding: 1% 20% 1% 20%;
-  }
 
   .grid-container {
     display: grid;
-    grid-template-columns: repeat(3, 1fr);
+    grid-template-columns: 6fr 6fr 6fr 1fr;
     grid-template-rows: 100px auto;
   }
-  .blank-grid {
+  .blank-grid-top {
     grid-column: 2/-1;
+  }
+  .blank-grid-right {
+    grid-column: 4/-1;
   }
   #section-1 {
     grid-row: 1/3;
     padding-right: 10%;
-    padding-left: 30%;
+    padding-left: 10%;
   }
   #section-1 h1 {
     font-size: 2em;
@@ -248,7 +228,7 @@ header h3 {
     padding-bottom: 70px;
   }
   #section-1 h3 {
-    padding-bottom: 20px;
+    padding-bottom: 10%;
     padding-right: 0;
     font-size: 1.5em;
     font-weight: 500;
@@ -258,11 +238,11 @@ header h3 {
     padding-bottom: 20px;
   }
   #card-section {
-    grid-column: 2/-1;
+    grid-column: 2/4;
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
-    padding-right: 200px;
+    padding: 0;
   }
 
   .card {
@@ -272,6 +252,7 @@ header h3 {
   .card p {
     padding-left: 0;
     padding-right: 0;
+    max-width: 250px;
   }
   #page-container {
     background-color: white;
@@ -287,5 +268,12 @@ header h3 {
 
   .click-me {
     display: none;
+  }
+
+  .footer h1,
+  .footer h3,
+  .footer p {
+    padding: 1% 5% 1% 30%;
+    text-align: right;
   }
 }
