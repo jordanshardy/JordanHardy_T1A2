@@ -163,13 +163,9 @@ header p {
 
 @media (min-width: 700px) {
   body {
-    margin: 2%;
+    margin: 4%;
   }
 
-  #page-container {
-    background-color: white;
-    padding: 3%;
-  }
 
   .header {
     display: grid;
