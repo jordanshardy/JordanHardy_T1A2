@@ -131,10 +131,18 @@ p {
   padding: 10% 10% 0 10%;
 }
 
-.card p {
+.card ul {
+  list-style: none;
   color: grey;
-  list-style-type: none;
-  padding-left: 0;
+}
+
+.card ul li::before {
+  content: "\2022";
+  color: #d6af87;
+  font-weight: bold;
+  display: inline-block;
+  width: 1em;
+  margin-left: -1em;
 }
 
 .card h3 {
@@ -249,7 +257,7 @@ p {
     padding: 5%;
     margin: 4%;
   }
-  .card p {
+  .card ul {
     padding-left: 0;
     padding-right: 0;
     max-width: 250px;
