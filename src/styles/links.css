@@ -1,0 +1,201 @@
+/* Core Styles */
+body {
+  margin: 0;
+  font-family: "Roboto", sans-serif;
+  font-weight: 300;
+  background: white;
+  font-size: 1.1em;
+  line-height: 1.5;
+  text-align: left;
+}
+
+img {
+  display: block;
+  width: 100%;
+  height: auto;
+  max-height: 600px;
+}
+
+h1,
+h2,
+h3,
+p {
+  margin: 0;
+  padding: 0.5em 0 0.5em 10%;
+}
+
+/* Navbar */
+
+.navbar {
+  background-color: #f8f8f8;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 3em;
+  height: 10px;
+  font-size: 0.7em;
+  border-bottom: 3px solid transparent;
+}
+
+.logo {
+  position: relative;
+  display: inline-block;
+}
+
+.logo img {
+  cursor: pointer;
+  height: auto;
+  width: auto;
+  max-width: 150px;
+  max-height: 52px;
+}
+
+.logo .img-top {
+  display: none;
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 99;
+}
+
+.logo-card:hover .img-top {
+  display: inline;
+}
+
+.nav-links {
+  list-style: none;
+}
+
+.nav-links li {
+  display: inline-block;
+  padding: 0px 10px;
+}
+
+.nav-links a {
+  color: black;
+  text-decoration: none;
+}
+
+.nav-links li a:hover {
+  border-bottom: 1px solid #d6af87;
+}
+
+/* Header */
+header {
+  background-color: #f8f8f8;
+}
+
+header h1 {
+  font-weight: 900;
+  padding-right: 75%;
+}
+
+header p {
+  padding: 15% 20% 15% 10%;
+}
+
+.color-grid {
+  background-color: #d6af87;
+  color: white;
+}
+
+.footer {
+  background-color: #f8f8f8;
+  padding-top: 5%;
+}
+
+.footer h1 {
+  font-weight: 900;
+  padding-right: 75%;
+  padding-top: 1em;
+}
+
+.footer h3 {
+  font-weight: 400;
+}
+
+.footer img {
+  cursor: pointer;
+  width: 100px;
+}
+
+.footer-icon-cont {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.footer-icon-cont a {
+  align-self: center;
+}
+
+.footer-icon-cont img {
+  padding: 20%;
+}
+
+.click-me {
+  display: flex;
+  flex-direction: column;
+  font-size: 20px;
+  word-wrap: break-word;
+  position: absolute;
+  padding-left: 20%;
+  justify-content: center;
+}
+
+.click-me div {
+  color: grey;
+  width: 10px;
+}
+
+.click-me span {
+  padding-left: 0.1em;
+}
+
+#line {
+  width: 1px;
+  height: 80px;
+  border-right: solid grey 1px;
+  padding-left: 4px;
+  margin: 20px 0 20px 0;
+}
+
+@media (min-width: 700px) {
+  body {
+    margin: 4%;
+  }
+
+
+  .header {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: 150px auto;
+  }
+
+  .color-grid {
+    grid-column: 1/2;
+    font-size: 1.5em;
+    display: flex;
+    align-items: center;
+    font-style: italic;
+    font-weight: lighter;
+  }
+
+  .grid-title h1 {
+    position: relative;
+    bottom: 30px;
+    font-size: 4em;
+  }
+
+
+  .footer-icon-cont {
+    flex-direction: row;
+    justify-content: space-evenly;
+    padding-bottom: 10%;
+    padding-top: 10%;
+  }
+
+  .click-me {
+    display: none;
+  }
+}
