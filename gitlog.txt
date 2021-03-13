@@ -1,3 +1,15 @@
+commit 5c11cc2a6923e24ecd920a1bf8e957cdd02bd30f
+Author: jshardy13 <jordan.s.hardy@gmail.com>
+Date:   Sat Mar 13 21:35:49 2021 +1000
+
+    organized file structure
+
+commit 270914f5d03c7e0bfa8fe70a30490f0a0fd17a7e
+Author: jshardy13 <jordan.s.hardy@gmail.com>
+Date:   Sat Mar 13 19:25:16 2021 +1000
+
+    updated CV link
+
 commit 1d3e45ef62b13b465f561703e882bf914554013e
 Author: jshardy13 <jordan.s.hardy@gmail.com>
 Date:   Sat Mar 13 19:06:10 2021 +1000
