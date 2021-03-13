@@ -42,10 +42,10 @@ https://www.google.com
 
 
 ##  SiteMaps <a name = "SiteMaps"></a>
-<img src="docs/homepage-ss.png>
-<img src="docs/about-ss.png>
-<img src="docs/links-ss.png>
-<img src="docs/blog-ss.png>
+<img src="docs/homepage-ss.png">
+<img src="docs/about-ss.png">
+<img src="docs/links-ss.png">
+<img src="docs/blog-ss.png">
 
 ##  Screenshots <a name = "Screenshots"></a>
 
