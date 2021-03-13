@@ -43,7 +43,7 @@ https://www.google.com
 
 ##  SiteMap <a name = "SiteMap"></a>
 
-![Alt text](../docs/Homepage.png?raw=true "Optional Title")
+![](../docs/Homepage.png)
 
 ##  Screenshots <a name = "Screenshots"></a>
 
