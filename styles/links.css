@@ -37,12 +37,12 @@ p {
   border-bottom: 3px solid transparent;
 }
 
-.logo-card {
+.logo {
   position: relative;
   display: inline-block;
 }
 
-.logo-card img {
+.logo img {
   cursor: pointer;
   height: auto;
   width: auto;
@@ -50,7 +50,7 @@ p {
   max-height: 52px;
 }
 
-.logo-card .img-top {
+.logo .img-top {
   display: none;
   position: absolute;
   top: 0;
@@ -74,7 +74,6 @@ p {
 .nav-links a {
   color: black;
   text-decoration: none;
-  text-decoration: uppercase;
 }
 
 .nav-links li a:hover {
@@ -87,7 +86,7 @@ header {
 }
 
 header h1 {
-  font-weight: 1000;
+  font-weight: 900;
   padding-right: 75%;
 }
 
@@ -95,27 +94,27 @@ header p {
   padding: 15% 20% 15% 10%;
 }
 
-.color-cont {
+.color-grid {
   background-color: #d6af87;
   color: white;
 }
 
-#footer {
+.footer {
   background-color: #f8f8f8;
   padding-top: 5%;
 }
 
-#footer h1 {
-  font-weight: 1000;
+.footer h1 {
+  font-weight: 900;
   padding-right: 75%;
   padding-top: 1em;
 }
 
-#footer h3 {
+.footer h3 {
   font-weight: 400;
 }
 
-#footer img {
+.footer img {
   cursor: pointer;
   width: 100px;
 }
@@ -173,7 +172,7 @@ header p {
     grid-template-rows: 150px auto;
   }
 
-  .color-cont {
+  .color-grid {
     grid-column: 1/2;
     font-size: 1.5em;
     display: flex;

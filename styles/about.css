@@ -39,12 +39,12 @@ p {
   border-bottom: 3px solid transparent;
 }
 
-.logo-card {
+.logo {
   position: relative;
   display: inline-block;
 }
 
-.logo-card img {
+.logo img {
   cursor: pointer;
   height: auto;
   width: auto;
@@ -52,7 +52,7 @@ p {
   max-height: 52px;
 }
 
-.logo-card .img-top {
+.logo .img-top {
   display: none;
   position: absolute;
   top: 0;
@@ -60,7 +60,7 @@ p {
   z-index: 99;
 }
 
-.logo-card:hover .img-top {
+.logo:hover .img-top {
   display: inline;
 }
 
@@ -76,38 +76,35 @@ p {
 .nav-links a {
   color: black;
   text-decoration: none;
-  text-decoration: uppercase;
 }
 
 .nav-links li a:hover {
   border-bottom: 1px solid #d6af87;
 }
 
-#section-1 {
+#grid-text {
   background-color: #f8f8f8;
-  height: min-hei;
   padding-bottom: 5%;
 }
 
-#section-1 h1 {
-  font-weight: 1000;
+#grid-text h1 {
+  font-weight: 900;
   padding-right: 75%;
 }
 
-#section-1 h3 {
+#grid-text h3 {
   font-weight: 400;
   padding-right: 50%;
 }
 
-#section-1 a {
+#grid-text a {
   color: black;
   text-decoration: underline black;
-  text-decoration: uppercase;
   padding-left: 10%;
   font-style: italic;
 }
 
-#section-1 a:hover {
+#grid-text a:hover {
   color: #d6af87;
   text-decoration: underline #d6af87;
 }
@@ -160,7 +157,7 @@ p {
 }
 
 .footer h1 {
-  font-weight: 1000;
+  font-weight: 900;
   padding-right: 75%;
   padding-top: 1em;
 }
@@ -207,7 +204,7 @@ p {
   padding-left: 0.1em;
 }
 
-#line {
+#footer-line {
   width: 1px;
   height: 80px;
   border-right: solid grey 1px;
@@ -234,26 +231,26 @@ p {
     grid-column: 4/-1;
   }
 
-  #section-1 {
+  #grid-text {
     grid-row: 1/3;
     padding-right: 10%;
     padding-left: 10%;
   }
 
-  #section-1 h1 {
+  #grid-text h1 {
     font-size: 2em;
     padding-right: 0;
     padding-bottom: 70px;
   }
 
-  #section-1 h3 {
+  #grid-text h3 {
     padding-bottom: 10%;
     padding-right: 0;
     font-size: 1.5em;
     font-weight: 500;
   }
 
-  #section-1 p {
+  #grid-text p {
     padding-bottom: 20px;
   }
 
