@@ -238,7 +238,7 @@ header h3 {
 
 
 /* Desktop Media Query */
-@media (min-width: 992px) {
+@media (min-width: 1200px) {
   body {
     margin: 4%;
   }

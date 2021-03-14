@@ -88,6 +88,11 @@ p {
   padding-bottom: 10%;
 }
 
+#grid-text img {
+  max-width: 200px;
+  padding-left: 10%;
+}
+
 #grid-text h1 {
   font-weight: 900;
   padding-right: 75%;
@@ -238,7 +243,7 @@ p {
 
 /* Desktop Media Query */
 
-@media (min-width: 992px) {
+@media (min-width: 1350px) {
   body {
     margin: 4%;
   }
