@@ -222,6 +222,7 @@ p {
   display: flex;
   justify-content: center;
   padding-top: 75px;
+  padding-bottom: 25%;
 }
 
 .footer-link {
@@ -237,7 +238,7 @@ p {
 
 /* Desktop Media Query */
 
-@media (min-width: 700px) {
+@media (min-width: 992px) {
   body {
     margin: 4%;
   }

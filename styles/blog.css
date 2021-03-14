@@ -219,6 +219,7 @@ header h3 {
     display: flex;
     justify-content: center;
     padding-top: 75px;
+    padding-bottom: 25%;
 }
 
 .footer-link {
@@ -232,7 +233,7 @@ header h3 {
     text-decoration: underline #d6af87;
 }
 
-@media (min-width: 700px) {
+@media (min-width: 992px) {
     body {
         margin: 4%;
     }
