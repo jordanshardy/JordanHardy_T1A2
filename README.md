@@ -12,7 +12,7 @@
 
 ---
 
-<p align="center"> Few lines describing your project.
+<p align="center"> This is a simple portfolio website.
     <br> 
 </p>
 
