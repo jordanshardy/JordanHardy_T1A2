@@ -33,7 +33,7 @@ p {
   align-items: center;
   padding: 3em;
   height: 10px;
-  font-size: 0.7em;
+  font-size: 0.9em;
   border-bottom: 3px solid transparent;
 }
 
@@ -94,6 +94,7 @@ header p {
   padding: 15% 20% 15% 10%;
 }
 
+/* Grid */
 .color-grid {
   background-color: #d6af87;
   color: white;
@@ -104,6 +105,7 @@ header p {
   padding-top: 5%;
 }
 
+/* Footer */
 .footer h1 {
   font-weight: 900;
   padding-right: 75%;
@@ -178,18 +180,21 @@ header p {
   text-decoration: underline #d6af87;
 }
 
+
+/* Desktop Media Query */
 @media (min-width: 700px) {
   body {
     margin: 4%;
   }
 
-
+  /* Header */
   .header {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
     grid-template-rows: 150px auto;
   }
 
+  /* Grid */
   .color-grid {
     grid-column: 1/2;
     font-size: 1.5em;
@@ -205,7 +210,7 @@ header p {
     font-size: 4em;
   }
 
-
+  /* Footer */
   .footer-icon-cont {
     flex-direction: row;
     justify-content: space-evenly;

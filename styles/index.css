@@ -35,7 +35,7 @@ p {
   align-items: center;
   padding: 3em;
   height: 10px;
-  font-size: 0.7em;
+  font-size: 0.9em;
   border-bottom: 3px solid transparent;
 }
 
@@ -155,7 +155,7 @@ header h3 {
   padding-left: 0;
 }
 
-/* Section 3 */
+/* Footer */
 .footer {
   background-color: #f8f8f8;
   padding-top: 5%;
@@ -235,24 +235,28 @@ header h3 {
   text-decoration: underline #d6af87;
 }
 
+
+/* Desktop Media Query */
 @media (min-width: 700px) {
   body {
     margin: 4%;
   }
 
-  header {
+  /* Header */
+  .header {
     display: flex;
     flex-direction: column;
     justify-content: center;
     text-align: center;
   }
 
-  header h1,
-  header h3,
-  header p {
+  .header h1,
+  .header h3,
+  .header p {
     padding: 1% 20% 1% 20%;
   }
 
+  /* Grid */
   .grid-container {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
@@ -304,7 +308,7 @@ header h3 {
     padding-right: 0;
   }
 
-
+  /* Footer */
   .footer-icon-cont {
     flex-direction: row;
     justify-content: space-evenly;
