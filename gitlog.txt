@@ -1,0 +1,351 @@
+commit bd455aeb6eb95ae88950a4d516ac347de601add1
+Author: jshardy13 <jordan.s.hardy@gmail.com>
+Date:   Sun Mar 14 16:28:33 2021 +1000
+
+    changed about page link
+
+commit dcf7a1c4e920c529bd50d08941573eeeb74ad10d
+Author: jshardy13 <jordan.s.hardy@gmail.com>
+Date:   Sun Mar 14 16:26:23 2021 +1000
+
+    updated SRI
+
+commit c3130571b81bf0426ceb856782bc23a49e1f73c4
+Author: jshardy13 <jordan.s.hardy@gmail.com>
+Date:   Sun Mar 14 16:22:41 2021 +1000
+
+    cleaned up code
+
+commit 82ea1bc618bf2a1b019b89f504d2b0a9e5102659
+Author: jshardy13 <jordan.s.hardy@gmail.com>
+Date:   Sun Mar 14 14:25:57 2021 +1000
+
+    updated link paths
+
+commit 99a4b97845ada44a301811268a213013b1630430
+Author: jshardy13 <jordan.s.hardy@gmail.com>
+Date:   Sun Mar 14 13:15:57 2021 +1000
+
+    updated nav logo link
+
+commit 0e75a2a81ed71d00784df048862c82aacb398407
+Author: jshardy13 <jordan.s.hardy@gmail.com>
+Date:   Sun Mar 14 13:07:30 2021 +1000
+
+    updated readme
+
+commit 79ccfc951006cf84106287747c55f3ff9ae7303f
+Author: jshardy13 <jordan.s.hardy@gmail.com>
+Date:   Sun Mar 14 13:05:14 2021 +1000
+
+    updated readme
+
+commit abc25069a530d2f37e1128bfa3d89adddc78262f
+Author: jshardy13 <jordan.s.hardy@gmail.com>
+Date:   Sun Mar 14 12:44:06 2021 +1000
+
+    added SRI
+
+commit 300e450548a9f09018202ae536faa3b075709b67
+Author: jshardy13 <jordan.s.hardy@gmail.com>
+Date:   Sun Mar 14 12:22:16 2021 +1000
+
+    updated file structure
+
+commit ae757d1d3e62f44b22a69c348fc66e4b4ce26a59
+Author: jshardy13 <jordan.s.hardy@gmail.com>
+Date:   Sun Mar 14 12:13:24 2021 +1000
+
+    updated file paths
+
+commit 15eec7b0d50cbb51a72b3160ebde6eaec8a27d90
+Author: jshardy13 <jordan.s.hardy@gmail.com>
+Date:   Sun Mar 14 12:11:07 2021 +1000
+
+    updated file paths
+
+commit 7172bebafca86b07cda6be2e9b1c41ef7b64ed14
+Merge: 6b46872 0b51064
+Author: jshardy13 <jordan.s.hardy@gmail.com>
+Date:   Sun Mar 14 11:51:54 2021 +1000
+
+    merge
+
+commit 6b46872a8cd559c60b83e5555c8d3bbb797ceaae
+Merge: 7e6ca58 45abbe4
+Author: jshardy13 <jordan.s.hardy@gmail.com>
+Date:   Sun Mar 14 11:46:42 2021 +1000
+
+    merge
+
+commit 0b51064b58eeef15c9ee7652a1f6409e2a65101f
+Author: Jordan Hardy <42752264+jordanshardy@users.noreply.github.com>
+Date:   Sun Mar 14 11:45:57 2021 +1000
+
+    Update README.md
+
+commit 7e6ca589cfbf3efd3385d7840f944ed029b23fde
+Author: jshardy13 <jordan.s.hardy@gmail.com>
+Date:   Sun Mar 14 11:44:19 2021 +1000
+
+    updated readme
+
+commit 45abbe46e61f2202c610b42774b1d652a11398b7
+Author: Jordan Hardy <42752264+jordanshardy@users.noreply.github.com>
+Date:   Sun Mar 14 11:43:45 2021 +1000
+
+    Update README.md
+
+commit a389b3eb010d2082a7c495a6184e0739e9166b96
+Author: Jordan Hardy <42752264+jordanshardy@users.noreply.github.com>
+Date:   Sun Mar 14 11:31:34 2021 +1000
+
+    Update README.md
+
+commit c69a7ab1f3d80f886cfc28037a4bf9bcbb482304
+Author: jshardy13 <jordan.s.hardy@gmail.com>
+Date:   Sun Mar 14 11:29:47 2021 +1000
+
+    added sitemap
+
+commit b2aaed174903f4403bcb46cd77dce33f3be2d010
+Merge: 80b7db7 ab0ca04
+Author: jshardy13 <jordan.s.hardy@gmail.com>
+Date:   Sun Mar 14 11:27:15 2021 +1000
+
+    merged files
+
+commit 80b7db7db59800305022ec9cccab2b63d9e8d0f3
+Author: jshardy13 <jordan.s.hardy@gmail.com>
+Date:   Sat Mar 13 22:53:45 2021 +1000
+
+    added readme files
+
+commit ab0ca046111439b99a4651d4aef1d1f192f0c0a7
+Author: Jordan Hardy <42752264+jordanshardy@users.noreply.github.com>
+Date:   Sat Mar 13 22:49:36 2021 +1000
+
+    Update README.md
+
+commit 02e7bed5c1361367a0bf83f7293261b744731b1c
+Author: jshardy13 <jordan.s.hardy@gmail.com>
+Date:   Sat Mar 13 22:48:57 2021 +1000
+
+    deleted files
+
+commit 9d97d2f2582a6191cfd52ea85652775d6bfaad08
+Author: Jordan Hardy <42752264+jordanshardy@users.noreply.github.com>
+Date:   Sat Mar 13 22:47:46 2021 +1000
+
+    Update README.md
+
+commit b91f001e8afc13d80d88556359e307ee01e17fd2
+Author: jshardy13 <jordan.s.hardy@gmail.com>
+Date:   Sat Mar 13 22:46:13 2021 +1000
+
+    added readme docs
+
+commit 3fe59cee7cbadbaf71e36cf0af54f36a0613f254
+Author: Jordan Hardy <42752264+jordanshardy@users.noreply.github.com>
+Date:   Sat Mar 13 22:41:44 2021 +1000
+
+    Update README.md
+
+commit 39cd7fe8f89f8268e0dbc3f92963ea38d0380def
+Author: Jordan Hardy <42752264+jordanshardy@users.noreply.github.com>
+Date:   Sat Mar 13 22:41:18 2021 +1000
+
+    Update README.md
+
+commit 0232c10f2753c3205edaae7709acf61a78a15c99
+Author: jshardy13 <jordan.s.hardy@gmail.com>
+Date:   Sat Mar 13 22:39:56 2021 +1000
+
+    added screenshots
+
+commit 9839ba88d9d96a8b5abf2db426913e8a5214ddaa
+Merge: 8234f98 969384e
+Author: jshardy13 <jordan.s.hardy@gmail.com>
+Date:   Sat Mar 13 22:39:09 2021 +1000
+
+    updated readme
+
+commit 8234f98386240c88586f59608d78424f390430c7
+Author: jshardy13 <jordan.s.hardy@gmail.com>
+Date:   Sat Mar 13 22:37:08 2021 +1000
+
+    fixed files for push
+
+commit 969384ed5ce8aea7213bef0bcb1228dceb93d672
+Author: Jordan Hardy <42752264+jordanshardy@users.noreply.github.com>
+Date:   Sat Mar 13 22:35:19 2021 +1000
+
+    Update README.md
+
+commit 14c14d01490c8665a80c2c0813762cd949ce15f9
+Author: jshardy13 <jordan.s.hardy@gmail.com>
+Date:   Sat Mar 13 22:34:32 2021 +1000
+
+    added screenshots
+
+commit eec9d4e319fa5347e3a4fc2d64943b0f37f4bffb
+Author: Jordan Hardy <42752264+jordanshardy@users.noreply.github.com>
+Date:   Sat Mar 13 22:30:35 2021 +1000
+
+    Update README.md
+
+commit 9a9b39327cf4a4e4c74a7de7aa45506206cc9e50
+Author: jshardy13 <jordan.s.hardy@gmail.com>
+Date:   Sat Mar 13 22:30:26 2021 +1000
+
+    changes file names
+
+commit 8543838dddce497832451177d3484dbd1cef9e2b
+Author: Jordan Hardy <42752264+jordanshardy@users.noreply.github.com>
+Date:   Sat Mar 13 22:28:29 2021 +1000
+
+    Update README.md
+
+commit 0bf3d8ec54355e0143ef2e5b852a84e0159470cf
+Author: Jordan Hardy <42752264+jordanshardy@users.noreply.github.com>
+Date:   Sat Mar 13 22:27:03 2021 +1000
+
+    Update README.md
+
+commit 65ba2f5c6ed6311fcd8fe523dd554f4cb6716fa3
+Author: jshardy13 <jordan.s.hardy@gmail.com>
+Date:   Sat Mar 13 22:24:20 2021 +1000
+
+    updated readme
+
+commit c29d6078e897fc706c004b80704c3927708dd5fe
+Author: jshardy13 <jordan.s.hardy@gmail.com>
+Date:   Sat Mar 13 22:19:41 2021 +1000
+
+    updating readme
+
+commit f36c0c91600b5234b68c730c4f0ddd1bb3595b7d
+Author: jshardy13 <jordan.s.hardy@gmail.com>
+Date:   Sat Mar 13 21:50:13 2021 +1000
+
+    updated readme
+
+commit 0c42601bd814ab4db8566d1054c87a8cc794f8cb
+Author: jshardy13 <jordan.s.hardy@gmail.com>
+Date:   Sat Mar 13 21:39:08 2021 +1000
+
+    updated git log
+
+commit 5c11cc2a6923e24ecd920a1bf8e957cdd02bd30f
+Author: jshardy13 <jordan.s.hardy@gmail.com>
+Date:   Sat Mar 13 21:35:49 2021 +1000
+
+    organized file structure
+
+commit 270914f5d03c7e0bfa8fe70a30490f0a0fd17a7e
+Author: jshardy13 <jordan.s.hardy@gmail.com>
+Date:   Sat Mar 13 19:25:16 2021 +1000
+
+    updated CV link
+
+commit 1d3e45ef62b13b465f561703e882bf914554013e
+Author: jshardy13 <jordan.s.hardy@gmail.com>
+Date:   Sat Mar 13 19:06:10 2021 +1000
+
+    completed debugging
+
+commit c8a5cfd22676e6b64e7a9318bee0b39fcd5d3750
+Author: jshardy13 <jordan.s.hardy@gmail.com>
+Date:   Sat Mar 13 17:32:09 2021 +1000
+
+    updated index pages files
+
+commit 083bcf205e3c6d5ae34c84a361422f36e1b6234f
+Author: jshardy13 <jordan.s.hardy@gmail.com>
+Date:   Fri Mar 12 19:26:28 2021 +1000
+
+    completed blog page
+
+commit 4ddd39a5df4ecb2430140bc2fd3642b78e13af2f
+Author: jshardy13 <jordan.s.hardy@gmail.com>
+Date:   Fri Mar 12 15:44:50 2021 +1000
+
+    completed blog page files
+
+commit c1f036fe1c1dd79cdadc05edb871de291fb31375
+Author: jshardy13 <jordan.s.hardy@gmail.com>
+Date:   Fri Mar 12 15:02:14 2021 +1000
+
+    updated font size
+
+commit 53bf9c5867d2a7490f2829e3c2c41c3e2d8a24e2
+Author: jshardy13 <jordan.s.hardy@gmail.com>
+Date:   Fri Mar 12 14:59:48 2021 +1000
+
+    completed my-links files
+
+commit e69f8711f3cd0f11fb7626446afe33e3961c3e37
+Author: jshardy13 <jordan.s.hardy@gmail.com>
+Date:   Fri Mar 12 14:06:13 2021 +1000
+
+    updated files
+
+commit b992d9a8e8ee6834d897ccedc456e67241765d48
+Author: jshardy13 <jordan.s.hardy@gmail.com>
+Date:   Fri Mar 12 13:53:32 2021 +1000
+
+    updated files
+
+commit 4e95d6883fc1ac3033e065445c21406ec9e5946d
+Author: jshardy13 <jordan.s.hardy@gmail.com>
+Date:   Fri Mar 12 12:54:51 2021 +1000
+
+    updated files
+
+commit 99e91faaea670ea9a7b7510163b39996706c19cc
+Author: jshardy13 <jordan.s.hardy@gmail.com>
+Date:   Thu Mar 11 14:25:30 2021 +1000
+
+    updated files
+
+commit f63182afd91bd8e4a495fe2d57e900cddeeb5ccb
+Author: jshardy13 <jordan.s.hardy@gmail.com>
+Date:   Thu Mar 11 14:08:02 2021 +1000
+
+    updated files
+
+commit 867d4bfbc9ba97bbb3769cf6ae379ddab8f785af
+Author: jshardy13 <jordan.s.hardy@gmail.com>
+Date:   Wed Mar 10 11:56:45 2021 +1000
+
+    updated files
+
+commit a54c5c315bfa132a6e5a39036c542fa84d7fb520
+Author: jshardy13 <jordan.s.hardy@gmail.com>
+Date:   Tue Mar 9 19:28:59 2021 +1000
+
+    updated files
+
+commit 66061cbc21cc0380b42c8f4e2668f768e9a3c246
+Author: jshardy13 <jordan.s.hardy@gmail.com>
+Date:   Tue Mar 9 09:58:09 2021 +1000
+
+    updated files
+
+commit 99d030893eb63eefef0371915127e7e03e05ea3a
+Author: jshardy13 <jordan.s.hardy@gmail.com>
+Date:   Mon Mar 8 19:35:47 2021 +1000
+
+    updated files
+
+commit 7b27eeee8ff6aa1e81d2b9d0a8f82f39be57385a
+Author: jshardy13 <jordan.s.hardy@gmail.com>
+Date:   Mon Mar 8 18:03:59 2021 +1000
+
+    updated files
+
+commit 7d95b26135cb47b80d9718e5716b4dcb5e1836e6
+Author: jshardy13 <jordan.s.hardy@gmail.com>
+Date:   Mon Mar 8 16:25:08 2021 +1000
+
+    added files
