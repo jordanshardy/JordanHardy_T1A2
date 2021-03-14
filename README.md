@@ -2,6 +2,7 @@
 
 ## Table of Contents
 
+- [Link](#link)
 - [About](#about)
 - [Features](#features)
 - [SiteMap](#sitemap)
@@ -9,6 +10,10 @@
 - [Screenshots](#screenshots)
 - [Tech Stack](#tech_stack)
 
+
+## Link <a name="link"></a>
+
+https://jordanshardy.github.io/JordanHardy_T1A2/
 
 ## About <a name = "about"></a>
 
