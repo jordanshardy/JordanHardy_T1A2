@@ -42,9 +42,16 @@ https://www.google.com
 
 
 ##  SiteMaps <a name = "SiteMaps"></a>
+<img src="docs/sitemap.jpg">
 
-fdsa
 ##  Screenshots <a name = "Screenshots"></a>
+<img src="docs/homepage-ss.png">
+<img src="docs/about-ss.png">
+<img src="docs/links-ss.png">
+<img src="docs/blog-ss.png">
+
+## Target <a name = "Target"></a>
+
 
 ## TechStack <a name = "TechStack"></a>
 
