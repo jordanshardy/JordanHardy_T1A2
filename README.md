@@ -17,9 +17,9 @@ https://jordanshardy.github.io/JordanHardy_T1A2/
 
 ## About <a name = "about"></a>
 
-```
+
 The purpose of this project is to create a base website as a portfolio for future work, upskilling and a landing page to showcase myself and my skills as a developer. 
-```
+
 ## Features <a name = "features"></a>
 
 The site focuses on simplicity and minimal styling while still grabbing the viewers attention. The idea is to keep the site minimal with effecient use of white space and text, titles and containers/sections for styling.
